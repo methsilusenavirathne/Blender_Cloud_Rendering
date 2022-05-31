@@ -3,7 +3,7 @@
 
 Do you want to render your Blender project as a Animation or Still frame in cycles or any other Render engine? But your pc performance abstract you, right?
 <br>
-<b>No worries, Google Colab is here you help you. By refering to the above notenook in this repository, your all obstracles will be chased out.</b>
+<b>No worries, Google Colab is here to help you. By refering to the above notenook in this repository, your all obstracles will be chased out.</b>
 
 ## Primary Instructions to use
 
