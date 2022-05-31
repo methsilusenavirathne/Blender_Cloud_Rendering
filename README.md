@@ -1,4 +1,4 @@
-# Blender_Cloud_Rendering
+# Blender Cloud Rendering
 ## Empowering young 3D artists with a lack of PC performance to Render their Blender Projects
 
 Do you want to render your Blender project as a Animation or Still frame in cycles or any other Render engine? But your pc performance abstract you, right?
